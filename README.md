@@ -1,2 +1,1 @@
-# docker-my-ip
-Docker My IP
+Get your internet IP
